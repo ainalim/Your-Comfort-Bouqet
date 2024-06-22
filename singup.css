@@ -153,13 +153,14 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
      align-items: center;
     justify-content: center;}
     
-    .knopka{
+       .knopka{
       background-color:#FFAAAA;
       border-radius: 18px;
       border: #550000 solid 3px;
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
       margin-left: -50px;
-   
+      height: 50px;
+      margin-top: 5px;
     }
     .roxie{
       background-color: #F1C8C8;
