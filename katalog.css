@@ -1,0 +1,243 @@
+.container{
+ display:flex;
+  justify-content:space-between;
+
+}
+
+
+p{color:#550000;
+}
+head{background-color: #D46A6A;
+
+}
+img {
+width:200px;
+height:200px;
+display: flex;
+justify-content: space-around;
+}
+
+body {
+
+background:#FFAAAA;
+font-family:Courier, monospace;}
+
+.verh
+   {background-image:url(https://github.com/ainalim/logo-/blob/main/Untitled52.png?raw=true);   }
+   
+
+.icons{
+  height: 100px;
+  width: 150px;
+ 
+}
+.poisk{
+     width: 600px;
+     height: 50px;
+     display: flex;
+     justify-content: space-around;
+     background-color: #ffdede;
+     border-radius:18px;
+     border: #550000 solid 3px;
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size:15px;
+     
+     
+   }
+
+header
+{background-color: #D46A6A;
+}
+
+
+header img{
+width: 100px;
+height: 100px;
+}
+
+header h1{
+  text-decoration:none;
+font-family:Arial Narrow, sans-serif;
+text-align:center;
+font-size:50p}
+
+
+nav a{
+
+color:#FFFFFF; 
+font-family: monospace;
+font-size: 20px;
+}
+
+
+.lan{
+  text-align: center;
+ margin-bottom: 100px;
+ font-size: 30px;
+ padding: 10px;
+ 
+}
+
+.galery{color:#D46A6A;
+    border: #D46A6A solid;
+   background-color: #F1C8C8;
+   border-radius: 7px;
+   flex-wrap: wrap;  
+    opacity: 0.6;
+    text-decoration: none;
+   padding: 3px;
+     }
+
+.galery:hover {
+    opacity: 1;
+    transition: 0.5s ease-out;}
+   
+.xie{
+  Display:flex;
+  Justify-content: space-around;
+  
+
+}
+
+.galery1{color:#550000;
+   border: #550000 solid;
+   background-color:#F1C8C8;
+   border-radius: 7px;
+   text-decoration: none;
+   padding: 3px;
+    }
+.lian{
+  Display:flex;
+  Justify-content: space-around;
+  font-weight:900;
+}
+.Qiu{
+  Display:flex;
+  Justify-content: space-around;
+  font-weight:900;
+}
+.dun{
+  Display:flex;
+  Justify-content: space-around;
+}
+.div{
+  background-color: #F1C8C8;
+  border-radius: 15px ;
+  border:solid#550000;
+  padding: 10px;
+  font-weight:900;
+  }
+.dav{background-color: #F1C8C8;
+  border-radius: 15px ;
+   border:solid#550000;
+  
+  padding: 10px; 
+  font-weight:900;}
+.dov{ background-color: #F1C8C8;
+  border-radius: 15px ;
+  border:solid;
+  padding: 10px;
+  font-weight:900;}
+.dev{background-color: #F1C8C8;
+  border-radius: 15px ;
+  border:solid;
+  padding: 10px;
+  font-weight:900;}
+  .duv{background-color: #F1C8C8;
+  border-radius: 15px ;
+  border:solid;
+  padding: 10px;
+  font-weight:900;}
+
+
+.bob{Display:flex;
+  Justify-content: space-around;}
+ 
+.gum{Display:flex;
+  Justify-content: space-around;
+  font-weight:900;}
+
+.huacen{Display:flex;
+  Justify-content: space-around;}
+
+.biv{background-color: #F1C8C8;
+  border-radius: 15px ;
+  border:solid;
+  padding: 10px;
+  font-weight:900;}
+
+.bav{background-color: #F1C8C8;
+  border-radius: 15px ;
+  border:solid;
+  padding: 10px;
+  font-weight:900;}
+
+.bov{background-color: #F1C8C8;
+  border-radius: 15px ;
+  border:solid;
+  padding: 10px;
+  font-weight:900;}
+
+.bev{background-color: #F1C8C8;
+  border-radius: 15px ;
+  border:solid;
+  padding: 10px;
+  font-weight:900;}
+
+.buv{background-color: #F1C8C8;
+  border-radius: 15px ;
+  border:solid;
+  padding: 10px;
+  font-weight:900;}
+
+
+
+
+
+
+.okno{
+     display: flex;
+     align-items: center;
+    justify-content: center;}
+.kov{
+height: 50px;
+width: 100px;
+
+}
+.poisk{
+  width: 600px;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+div{
+  display: flex;
+  
+  Justify-content:center;
+}
+.vhod{color:#D46A6A;
+    border: #D46A6A solid;
+   background-color: #F1C8C8;
+   border-radius: 7px;
+   flex-wrap: wrap;  
+    opacity: 0.6;
+    text-decoration: none;
+  
+  
+     }
+
+.vhod:hover {
+    opacity: 1;
+    transition: 0.5s ease-out;}
+   .knopka{
+      background-color:#FFAAAA;
+      border-radius: 18px;
+      border: #550000 solid 3px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      margin-left: -50px;
+   
+    }
+    .kris{
+   border-radius: 40px;
+   border: #550000 solid 3px;
+    }
